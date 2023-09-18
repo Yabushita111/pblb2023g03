@@ -10,6 +10,12 @@
 # To get you started we've included code to prevent your Battlesnake from moving backwards.
 # For more info see docs.battlesnake.com
 
+
+
+
+
+
+
 import random
 import typing
 
