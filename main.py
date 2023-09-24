@@ -86,6 +86,7 @@ def move(game_state: typing.Dict) -> typing.Dict:
     # opponents = game_state['board']['snakes']
 
 
+
     # Are there any safe moves left?
     safe_moves = []
     for move, isSafe in is_move_safe.items():
