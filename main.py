@@ -3,7 +3,7 @@
 #  |    |  _\__  \\   __\   __\  | _/ __ \ /  ___//    \\__  \ |  |/ // __ \
 #|    |   \ / __ \|  |  |  | |  |_\  ___/ \___ \|   |  \/ __ \|    <\  ___/
 #  |_______/(______/__| |__| |____/\_____>______>___|__(______/__|__\\_____>
-#
+
 # This file can be a nice home for your Battlesnake logic and helper functions.
 #
 # To get you started we've included code to prevent your Battlesnake from moving backwards.
