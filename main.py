@@ -4,7 +4,7 @@
 #|    |   \ / __ \|  |  |  | |  |_\  ___/ \___ \|   |  \/ __ \|    <\  ___/
 #  |______/(______/__| |__| |____/\_____>______>___|__(______/__|__\\_____>
 
-# This file can be a nice home for your Battlesnake logic and helper functions.
+# This file can be a nice home or your Battlesnake logic and helper functions.
 #
 # To get you started we've included code to prevent your Battlesnake from moving backwards.
 # Fomore info see docs.battlesnake.com
