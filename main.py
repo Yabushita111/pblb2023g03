@@ -6,7 +6,7 @@
 
 # This file can be a nice home or your Battlesnake logic and helper functions.
 
-# To get you started we've included code to prevent your Battlesnake from moving backwards.
+# To get you started we've included code to prevent your Battlesnake from moving bacwards.
 # Fomore info see docs.battlesnake.com
 
 
