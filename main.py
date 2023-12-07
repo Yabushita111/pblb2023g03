@@ -19,7 +19,7 @@
 import random
 import typing
 
-# info is called when you create your Battlesnake on play.battlesnake.com
+# info is called when you create your Battlesnake on play.battlesnake.co
 # and controls your Battlesnake's appearance
 # TIP: If you open your Battlesnake URL in a browser you should see this data
 def info() -> typing.Dict:
